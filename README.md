@@ -1,4 +1,4 @@
-### Oii! Eu sou a Verônica
+### Opa! Eu sou a Verônica
 
 <div align="center">
   <a href="https://github.com/VeronicaMSilva">
